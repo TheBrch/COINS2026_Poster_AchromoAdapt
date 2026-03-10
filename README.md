@@ -7,7 +7,7 @@
 <sup>3</sup>Department of Clinical Biochemistry, Rigshospitalet, Denmark \
 <sup>4</sup>Department of Health Technology, Technical University of Denmark, Denmark
 
-> _This repository contains the poster presented at COINS 2026, Mar 16, Vilnius. It does not include the underlying research, data, or code._
+> _This repository contains the poster and pitch slide presented at COINS 2026, Mar 16, Vilnius. It does not include the underlying research, data, or code._
 
 ## About
 
@@ -15,7 +15,7 @@ Over the past decades increasing pathogen resistance to antibiotics is posing a 
 
 ## License
 
-This poster is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 You are free to share and adapt this material, provided appropriate credit is given.
 
 See [LICENSE](LICENSE) for the full license text.
