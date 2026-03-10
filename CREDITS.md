@@ -18,12 +18,12 @@ and are licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 recolored to match the project palette. Some icons are derivative works of the
 following originals:
 
-| Icon                                                              | Creator            | License   |
-| ----------------------------------------------------------------- | ------------------ | --------- |
-| ["Bacteria"](https://thenounproject.com/icon/bacteria-7771383/)   | Perkasa Rambe      | CC BY 3.0 |
-| ["Grave"](https://thenounproject.com/icon/grave-8086722/)         | PictoCraft Studios | CC BY 3.0 |
-| ["Mail"](https://thenounproject.com/icon/mail-5813469/)           | Anggara Putra      | CC BY 3.0 |
-| ["Poster"](https://thenounproject.com/icon/poster-5733016/)       | andika             | CC BY 3.0 |
-| ["curiosity"](https://thenounproject.com/icon/curiosity-7719855/) | Andre Buand        | CC BY 3.0 |
-| ["github"](https://thenounproject.com/icon/github-4289652/)       | Guillaume Beaulieu | CC BY 3.0 |
-| ["mutation"](https://thenounproject.com/icon/mutation-7322112/)   | Hendrik Hermawan   | CC BY 3.0 |
+| Icon                                                              | Creator            |
+| ----------------------------------------------------------------- | ------------------ |
+| ["Bacteria"](https://thenounproject.com/icon/bacteria-7771383/)   | Perkasa Rambe      |
+| ["Grave"](https://thenounproject.com/icon/grave-8086722/)         | PictoCraft Studios |
+| ["Mail"](https://thenounproject.com/icon/mail-5813469/)           | Anggara Putra      |
+| ["Poster"](https://thenounproject.com/icon/poster-5733016/)       | andika             |
+| ["curiosity"](https://thenounproject.com/icon/curiosity-7719855/) | Andre Buand        |
+| ["github"](https://thenounproject.com/icon/github-4289652/)       | Guillaume Beaulieu |
+| ["mutation"](https://thenounproject.com/icon/mutation-7322112/)   | Hendrik Hermawan   |
